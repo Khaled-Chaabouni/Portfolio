@@ -13,7 +13,7 @@ Welcome to my personal portfolio repository! This repository contains the source
 
 ## Demo
 
-You can visit my live portfolio website by clicking [here](https://khaled-chaabouni.github.io/Portfolio/).
+You can visit my live portfolio website by clicking [here](http://www.khaledchaabouni.com).
 
 ![Portfolio Website Demo](images/screenshots/homepage.png)
 
