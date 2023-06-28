@@ -63,10 +63,10 @@ The homepage includes a **Hire Me** button that directs visitors to the Contact 
   - Upload the entire project directory to a web server or hosting platform of your choice.
   - Make sure the main page is named index.html for it to be served as the default landing page.
 
-##Download CV
+## Download CV
 
 You can download my CV in PDF format by clicking the Download CV button on the About Me section of my portfolio website.
 
-##License
+## License
 
 This project is licensed under the MIT License.
